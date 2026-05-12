@@ -2,7 +2,8 @@
 
 SpendWise AI is a free web app that audits your team's AI tool subscriptions — Cursor, Claude, ChatGPT, GitHub Copilot, and others — and gives you a precise, finance-grade breakdown of where you're overspending and how much you can save. Built as a lead-generation asset for [Credex](https://credex.rocks), a marketplace for discounted AI infrastructure credits.
 
-**Live URL:** https://ai-spend-audit.vercel.app *(update with actual deployment URL)*
+**Live URL:** https://credex-assignment-ny2o80bwj-nityoms-projects.vercel.app  
+**GitHub:** https://github.com/Nityom/credex-assignment
 
 ---
 
