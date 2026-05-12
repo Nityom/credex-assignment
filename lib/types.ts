@@ -103,11 +103,11 @@ export interface LeadCapture {
   website?: string;
 }
 
-export interface ApiAuditRequest extends SpendFormData {}
+export type ApiAuditRequest = SpendFormData;
 
 export interface ApiAuditResponse {
   auditId: string;
   result: AuditResult;
 }
 
-export interface ApiLeadRequest extends LeadCapture {}
+export type ApiLeadRequest = LeadCapture;
